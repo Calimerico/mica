@@ -1,7 +1,7 @@
 package mica.mica;
 
 public class Adresa {
-    String imeUlice;
-    String kucniBroj;
-    int postanskiBroj;
+    public String imeUlice;
+    public String kucniBroj;
+    public int postanskiBroj;
 }

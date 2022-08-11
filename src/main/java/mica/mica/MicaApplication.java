@@ -30,7 +30,7 @@ public class MicaApplication {
 		double resenje = kalkulator.eurToRsd(100.0);
 		System.out.println(resenje);
 
-//		SpringApplication.run(MicaApplication.class, args);
+		SpringApplication.run(MicaApplication.class, args);
 	}
 
 }
